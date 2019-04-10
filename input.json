@@ -1,17 +1,19 @@
 {
-  "inputLocation": "sample.tsv",
-  "resultLocation": "/Users/darp/Darp/IDEAWorkspace/cloud_group_project/result",
-  "inputCategory": "Watches",
+  "inputLocation": "amazon-wireless.tsv",
+  "resultLocation": "s3://us-east-2.aws.mapreducedemo/result",
+  "inputCategory": "wireless",
 
-  "searchKeyword": "casio",
+  "searchKeyword": "iphone case 6s",
   "durationMostActiveMember": "6",
+
+  "resultCount": "5",
 
   "vineProgram": "Yes",
   "productSearchProgram": "Yes",
   "mostActiveMemberProgram": "Yes",
   "mostReviewedProductsProgram": "Yes",
 
-  "wirelessDatasetLocation": "/Users/darp/Darp/IDEAWorkspace/cloud_group_project/sample.tsv",
-  "watchesDatasetLocation": "/Users/darp/Darp/IDEAWorkspace/cloud_group_project/sampleWatch.tsv"
+  "wirelessDatasetLocation": "s3://us-east-2.aws.mapreducedemo/amazon_wireless.tsv",
+  "watchesDatasetLocation": "s3://us-east-2.aws.mapreducedemo/amazon_watches.tsv"
 }
 
