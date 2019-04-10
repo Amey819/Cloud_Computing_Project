@@ -1,0 +1,17 @@
+{
+  "inputLocation": "sample.tsv",
+  "resultLocation": "/Users/darp/Darp/IDEAWorkspace/cloud_group_project/result",
+  "inputCategory": "Watches",
+
+  "searchKeyword": "casio",
+  "durationMostActiveMember": "6",
+
+  "vineProgram": "Yes",
+  "productSearchProgram": "Yes",
+  "mostActiveMemberProgram": "Yes",
+  "mostReviewedProductsProgram": "Yes",
+
+  "wirelessDatasetLocation": "/Users/darp/Darp/IDEAWorkspace/cloud_group_project/sample.tsv",
+  "watchesDatasetLocation": "/Users/darp/Darp/IDEAWorkspace/cloud_group_project/sampleWatch.tsv"
+}
+
